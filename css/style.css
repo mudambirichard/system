@@ -1,3 +1,18 @@
 .breadcrumb-dn{ color: white;
-                font-size: 20px;
-	         }/* Your custom styles */
+                /**font-size: 20px;**/
+	         }
+
+html,
+title,
+body,
+#muda{
+	  height: 100%;
+}	         
+
+#muda{
+	background: url("../img/sa.jpeg");
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size:cover;
+   background-size: cover: 
+}
