@@ -7,7 +7,7 @@ title,
 body,
 #muda{
 	  height: 100%;
-}	         
+}	          
 
 #muda{
 	background: url("../img/sa.jpeg");
@@ -16,3 +16,37 @@ body,
    -o-background-size:cover;
    background-size: cover:
     }
+
+ .card { background-image: url(../img/1.jpeg);
+ 	 -webkit-background-size: cover;
+   
+   
+   
+ 	  /**opacity: 25;**/
+ }
+
+ .card2{ background-image: url(../img/2.jpeg);
+ 	 -webkit-background-size: cover;
+
+ }
+.card3{  background-image: url(../img/3.jpeg);
+ 	 -webkit-background-size: cover;
+
+}
+
+ 
+.card4{  background-image: url(../img/4.jpeg);
+ 	 -webkit-background-size: cover;
+
+}
+ 
+.card5{  background-image: url(../img/5.jpeg);
+ 	 -webkit-background-size: cover;
+
+}
+ 
+.card6{  background-image: url(../img/7.jpeg);
+ 	 -webkit-background-size: cover;
+
+}
+ 
