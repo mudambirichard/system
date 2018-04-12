@@ -18,31 +18,27 @@ body,
    background-size: cover:
     }
 
- .card { background-image: url(../img/1.jpeg);
- 	 -webkit-background-size: cover;
+ .card1 { background-image: url(../img/1.jpeg);
+ 	    -webkit-background-size: cover;
    
-   
-   
- 	  /**opacity: 25;**/
- }
-
- .card2{ background-image: url(../img/2.jpeg);
- 	 -webkit-background-size: cover;
+   }
+.muda{ background-image: url(../img/2.jpeg);
+ 	     -webkit-background-size: cover;
 
  }
 .card3{  background-image: url(../img/3.jpeg);
- 	 -webkit-background-size: cover;
+ 	    -webkit-background-size: cover;
 
 }
 
  
 .card4{  background-image: url(../img/4.jpeg);
- 	 -webkit-background-size: cover;
+ 	    -webkit-background-size: cover;
 
 }
  
 .card5{  background-image: url(../img/5.jpeg);
- 	 -webkit-background-size: cover;
+ 	   -webkit-background-size: cover;
 
 }
  
@@ -67,4 +63,12 @@ body,
 	
 	
 
+}
+.carousel{ padding-bottom: 25px;
+	  padding-top: 25px;
+
+}
+
+.ric{ background-image: url(../img/9.jpg);
+      -webkit-background-size: cover;
 }
